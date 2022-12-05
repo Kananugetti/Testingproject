@@ -1,0 +1,47 @@
+## 1. How was your experience testing the given Webapp?
+
+	Good experience all and all.
+
+## 2. How did you write or manage your test case?
+
+	It was hard to understand at first but it went well.
+
+## 3. Do you recommend any other tools or styles for Test case management, 
+     
+	I have nothing on my mind.
+
+## 4. Which IDE (Visual Code or Atom or else) have you used to edit files?
+
+	Visual code and notepad.
+     
+## 5. Did you find any trouble? how did you solve the trouble?
+
+	Yes there were troubles at the star because i had to 		understand the whole task. I just tried to read it again and 	again.
+
+## 6. Did you find any trouble using Github? have you used Github before? where?
+
+	I have used github before in my web development courses and 		it was easy to use.
+      
+
+## 7. If in the future if you need to automate these test cases, which framework or language will you use? and describe why (Robot Framework, Cypress, Selenium, or any other )
+
+-
+
+
+## 8. Kindly search the term `Tester` `Automation Tester` glassdoor and LinkedIn or any other job search website. Currently, list the skills and competencies that are most in-demand in software testing
+ 
+	Experience in different types of technology projects and 		environments including experience with testing and a 		knowledge of modern testing tools and methods.
+	Fluency in either English or Finnish, and good communication 	skills (written & spoken), as well as the necessary permits 		for working in Finland.
+	A modern DevOps mindset.
+	Skills and confidence to coach and mentor others.
+
+
+## 9. **Let's assume** that if you are going to continue with the career in Software Testing, which technical and soft skills do you need to fill up the blank in your resume?
+
+	Knowledge of Database/SQL, Understanding the Unix Commands, 		Proper use of Test management tools, Knowledge and 		Experience in automation tools, Analytic skills, 		Communication skills, Eagerness To Learn and Problem 		Solving.
+
+
+
+## 10. Write short Learning Reflection and  Free words Do you think that project helped in putting theoretical knowledge into practice? Describe? (is there anything else that you would like to share with us concerning the current study module). e.g. regarding the quality of content and your learning (or) improvement ideas? 
+
+	I didin't know what to expect for this project, it was quite 	useful but not that useful i hoped for. I don't know maybe i 	was waiting to put some codes into some programs or 		something like that. But all and all this course was very 		good and useful for me in the future.

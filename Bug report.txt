@@ -1,0 +1,26 @@
+## Summary (Summarize the bug encountered concisely)
+* Create new project page there is "create black project" and it should be "create blank project"
+
+## Steps to reproduce
+* I have no clue.
+
+## What is the current bug behavior?
+* Current bug is "typo"
+
+## What is the expected correct behavior?
+* It was hard to understand at first but it went well.
+
+     
+## Relevant logs and/or screenshots
+-
+      
+
+## Possible fixes
+-
+
+## Whom do you report/ Assign To/ Tags
+* /label ~bug ~reproduced ~needs-investigation /cc @project-manager /assign @qa-tester
+
+
+## Priority
+* It's not a serious bug it doesn't affect anything or the site functionality, it is just a typo.
