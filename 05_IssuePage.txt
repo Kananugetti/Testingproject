@@ -1,0 +1,59 @@
+
+#******************** Settings ************************
+
+*** Settings ***
+Documentation	Issue Test scenario. CRUD Operation: Create, Read, Update, Delete
+
+# TODO: Write Precondition and Postcondition, Tags 
+
+Pre Condition = Open project 
+Post Condition	= Close project
+Tags = Issue
+
+#******************* Common Variables ********************
+
+
+*** Variables ***
+
+# NOTE: Please Remove your login credential before uploading Assignments
+
+# TODO: Write Issue creation field variables, Updated name of the issue
+Choose your project and then navigate issues page and then you have to choose between Import issues, Import CSV, Import from Jira. 
+
+
+
+#******************** Test Cases *************************
+
+*** Test Case ***
+
+# TODO: Write Positive Test Cases and Test Process steps
+
+# Positive Test
+
+Creating a new issue and then software almoust done and title is called Ready to launch the page. Type is issue. In description i'm describing what i have done in the last stages of this software and why it is ready to launch.
+
+	Create issue
+Go to issue page
+Click new issue
+Put a title for your issue
+Put description to your issue
+Create
+ 	Update name of issue
+Go to issue page
+Click existing issue
+Edit title
+Edit description
+Save
+ 
+	Create second issue with privious updated name
+Go to issue page
+New issue
+Put title with the same name
+Put description
+Create
+    	
+	Delete first issue
+Go to issue page
+Click first issue
+Click dropdown menu next to close menu
+Delete issue
